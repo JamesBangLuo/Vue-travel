@@ -1,6 +1,15 @@
 # travel
 
 > A Vue.js project
+## 技术栈
+Vue-cli
+Vue
+Vue-router
+Vue-awesome-swiper
+axios
+Sytlus
+Swiper
+Fastclick
 
 ## Build Setup
 
