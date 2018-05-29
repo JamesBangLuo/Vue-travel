@@ -6,7 +6,7 @@ Vue-cli+
 Vue+
 Vue-router+
 Vue-awesome-swiper+
-axios+
+Axios+
 Stylus+
 Swiper+
 Fastclick
