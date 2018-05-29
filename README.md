@@ -2,13 +2,13 @@
 
 > A Vue.js project
 ## 技术栈
-Vue-cli
-Vue
-Vue-router
-Vue-awesome-swiper
-axios
-Sytlus
-Swiper
+Vue-cli+
+Vue+
+Vue-router+
+Vue-awesome-swiper+
+axios+
+Stylus+
+Swiper+
 Fastclick
 
 ## Build Setup
